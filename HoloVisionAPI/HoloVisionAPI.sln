@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloVisionAPI", "HoloVisionAPI\HoloVisionAPI.csproj", "{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Debug|ARM.ActiveCfg = Debug|ARM
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Debug|ARM.Build.0 = Debug|ARM
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Debug|x64.ActiveCfg = Debug|x64
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Debug|x64.Build.0 = Debug|x64
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Debug|x86.ActiveCfg = Debug|x86
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Debug|x86.Build.0 = Debug|x86
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Release|ARM.ActiveCfg = Release|ARM
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Release|ARM.Build.0 = Release|ARM
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Release|x64.ActiveCfg = Release|x64
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Release|x64.Build.0 = Release|x64
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Release|x86.ActiveCfg = Release|x86
+		{AFAA2658-953B-4E8E-B760-BD9B9AB67CD5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AF9A9A4-DAC4-464E-8AF5-ADE70BA982A3}
+	EndGlobalSection
+EndGlobal
